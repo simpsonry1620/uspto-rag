@@ -95,6 +95,8 @@ execution:
   secrets:
   - variable: NVCF_KEY
     description: ""
+  - variable: OPENAI_API_KEY
+    description: ""
   mounts:
   - type: project
     target: /project/
