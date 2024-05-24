@@ -2,3 +2,5 @@ jupyterlab>3.0
 openai
 langchain_community
 nltk
+faiss-gpu
+langchain_openai
